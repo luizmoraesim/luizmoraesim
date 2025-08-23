@@ -7,6 +7,8 @@
   <a href="https://github.com/luizmoraesim">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
+  <a href="mailto:luizmoraesim@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  
 </p>
 
 ---

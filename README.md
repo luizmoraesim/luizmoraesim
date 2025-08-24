@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hey, I'm Luiz Moraes — Salesforce Commerce Cloud Fullstack Developer & Rust/Node.js Enthusiast!</h1>
+<h1>👋 &nbsp;I'm Luiz Moraes — Salesforce Commerce Cloud Fullstack Developer & Rust/Node.js/Web3 Enthusiast!</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ldiegomoraes">

@@ -92,6 +92,6 @@ This GitHub is a collection of **practical projects, experiments, and studies** 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizmoraesim&show_icons=true&theme=midnight-purple" alt="Luiz Moraes' GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmoraesim&layout=compact&theme=midnight-purple" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luizmoraesim&show_icons=true&theme=holi" alt="Luiz Moraes' GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmoraesim&layout=compact&theme=holi" alt="Top Langs"/>
 </p>
